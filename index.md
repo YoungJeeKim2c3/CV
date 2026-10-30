@@ -14,7 +14,7 @@ Deliberative Democracy Lab · Advisor: [Dr. James Fishkin](https://comm.stanford
 
 ## About Me
 
-I study what actually happens inside public deliberation. Using transcripts from Deliberative Polls, I combine computational text analysis (topic modeling, LLM-based classification, linguistic style analysis) with multilevel statistical modeling to examine who speaks, whose arguments shape the conversation, and how deliberation changes opinions and reduces polarization. My work spans deliberations in the United States, Korea, and the Global South.
+I study what happens inside public deliberation. Using transcripts from Deliberative Polls, I combine computational text analysis (topic modeling, LLM-based classification, linguistic style analysis) with multilevel statistical modeling to examine who speaks, whose arguments shape the conversation, and how deliberation changes opinions and reduces polarization. My work spans deliberations in the United States, Korea, and the Global South about scientific risks such as climate change, AI, and nuclear energy.
 
 **Research interests:** deliberative democracy · political communication · polarization and depolarization · computational social science · bilingual (Korean/English) NLP
 
