@@ -105,11 +105,11 @@ Mentored 30+ students per class through independent research papers with staged 
 
 ## Skills
 
-**Computational Social Science:** few-shot LLM classification, RAG pipelines, topic modeling (BERTopic)
-**Statistical Modeling:** multilevel modeling, mediation analysis, experimental survey design, longitudinal analysis
-**Python:** Transformers (Hugging Face), pandas, NumPy, scikit-learn
-**R:** lme4, mediation, tidyverse, brms
-**Specialized:** LIWC-22, high-performance computing (HPC), bilingual Korean/English NLP (Llama-3, Bllossom, localized embeddings)
+**Computational Social Science:** few-shot LLM classification, RAG pipelines, topic modeling (BERTopic)  
+**Statistical Modeling:** multilevel modeling, mediation analysis, experimental survey design, longitudinal analysis  
+**Python:** Transformers (Hugging Face), pandas, NumPy, scikit-learn  
+**R:** lme4, mediation, tidyverse, brms  
+**Specialized:** LIWC-22, high-performance computing (HPC), bilingual Korean/English NLP (Llama-3, Bllossom, localized embeddings)  
 **Leadership:** NIH-sponsored training (Stanford BIO 315) on conflict management and emotional intelligence
 
 ---
@@ -120,4 +120,4 @@ Mentored 30+ students per class through independent research papers with staged 
 
 ---
 
-<sub>Last updated: October 2026</sub>
+<sub>Last updated: November 2026</sub>
