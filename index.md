@@ -14,15 +14,16 @@ Deliberative Democracy Lab · Advisor: [Dr. James Fishkin](https://comm.stanford
 
 ## About Me
 
-I study what happens inside public deliberation. Using transcripts from Deliberative Polls, I combine computational text analysis (topic modeling, LLM-based classification, linguistic style analysis) with multilevel statistical modeling to examine who speaks, whose arguments shape the conversation, and how deliberation changes opinions and reduces polarization. My work spans deliberations in the United States, Korea, and the Global South about scientific risks such as climate change, AI, and nuclear energy.
+I study what happens inside public deliberation. Using transcripts from Deliberative Polls, I combine computational text analysis (topic modeling, LLM-based classification, linguistic style analysis) with multilevel statistical modeling to examine who speaks, whose arguments shape the conversation, and how deliberation changes opinions and reduces polarization. My work spans deliberations in the United States and Korea about scientific risks such as climate change, Generative AI, and nuclear energy.
 
-**Research interests:** deliberative democracy · political communication · polarization and depolarization · computational social science · bilingual (Korean/English) NLP
+**Research interests:** deliberative democracy · political communication · polarization and depolarization  ·  social inequality within deliberation · computational social science · bilingual (Korean/English) NLP
 
 ---
 
 ## Education
 
 **Ph.D. in Communication**, Stanford University — *2020 – present*
+Dissertation: *Deliberative Distortions in Structured Deliberation* (ABD)  
 Advisor: Dr. James Fishkin
 
 **M.A. in Communication and Media**, Ewha Womans University — *2018*
@@ -95,7 +96,7 @@ Led discussion sections for 28 students and guided their research questions and 
 
 **Teaching Assistant** for Dr. James Fishkin, Stanford University — *2022 – 2026*
 *Deliberative Democracy and its Critics* (2022, 2024, 2026) · *The Dialogue of Democracy* (2022, 2025)
-Mentored 30+ students through independent research papers with staged feedback on design and writing.
+Mentored 30+ students per class through independent research papers with staged feedback on design and writing.
 
 **Volunteer Instructor**, Stanford Splash — *Spring 2025*
 *Deliberation Hours*: age-appropriate lectures on deliberative democracy for K–12 students.
