@@ -42,6 +42,8 @@ Scranton Honors Program, Digital Humanities Track (Double Major) · Minor in Phi
 
 - **Kim, Y. J.** (2025). Do the more advantaged dominate deliberation? Using transcripts for identifying relationship between social advantage and deliberation. *Journal of Deliberative Democracy, 21*(1), 1–17. [https://doi.org/10.16997/jdd.1549](https://doi.org/10.16997/jdd.1549)
 
+- Lee, J.-y., Kim, Y.-w., & **Kim, Y. J.** (2018). How powerful are fear appeals and testimonials in reducing fundamental causes of smoking cessation intention in South Korea? Applying the extended parallel process model to the fundamental cause theory. *Asian Communication Research, 15*(1), 13-48.  
+
 - Kim, Y.-w., **Kim, Y. J.**, & Kim, S.-h. (2018). Risk seeking and processing on climate change: Moderating effects of perceived information gathering capacity, channel beliefs, and behavioral beliefs. *Korean Journal of Journalism & Communication Studies, 62*(5), 72–106. [https://doi.org/10.20879/kjjcs.2018.62.5.003](https://doi.org/10.20879/kjjcs.2018.62.5.003) (in Korean)
 
 - Kim, Y.-w., Ham, S.-k., & **Kim, Y. J.** (2017). Media discourse analyses on the Sewol ferry incident: The methodological integration of the critical discourse analysis and the semantic network analysis using newspaper big data. *Korean Journal of Communication & Information, 83*, 7–38. (in Korean)
